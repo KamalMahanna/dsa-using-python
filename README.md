@@ -9,3 +9,7 @@
 | [3 sum to 0](https://leetcode.com/problems/3sum/) | <details><summary></summary>two pointer</details> |
 | [tripplets closest to target](https://leetcode.com/problems/3sum-closest/) | <details><summary></summary>two pointer</details> |
 | [tripplest with smaller sum](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | <details><summary></summary>two pointer</details> |
+| [First Non-repeating Character](https://leetcode.com/problems/first-unique-character-in-a-string/) | <details><summary></summary>Hash Map</details> |
+| [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |<details><summary></summary>Hash Map</details> |
+| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |<details><summary></summary>Hash Map</details> |
+|[Ransom Note](https://leetcode.com/problems/longest-palindrome/)|<details><summary></summary>Hash Map</details> |
