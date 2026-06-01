@@ -13,3 +13,18 @@
 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) |<details><summary></summary>Hash Map</details> |
 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |<details><summary></summary>Hash Map</details> |
 |[Ransom Note](https://leetcode.com/problems/longest-palindrome/)|<details><summary></summary>Hash Map</details> |
+|[Max Sum Subarray of size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)|<details><summary></summary>fix sliding window</details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
+|[]()|<details><summary></summary>  </details>|
